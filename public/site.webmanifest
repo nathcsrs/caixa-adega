@@ -1,0 +1,20 @@
+{
+  "name": "Caixa Tá No Grale",
+  "short_name": "Tá No Grale",
+  "start_url": "../index.html",
+  "display": "standalone",
+  "background_color": "#05050a",
+  "theme_color": "#05050a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
